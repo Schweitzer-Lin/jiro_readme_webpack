@@ -11,6 +11,21 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1" />
 		<meta name="description" content="" />
 		<meta name="keywords" content="" />
+		<script src="assets/lib/js/jquery.js"></script>
+		<script src="assets/lib/js/bootstrap.js"></script>
+		<script src="assets/lib/js/jquery.validate.js"></script>
+		<script src="assets/js/cookie.js"></script>
+		<script src="components/config/server_config.js"></script>
+		<script src="components/config/page_config.js"></script>
+		<!-- <script src="components/personalpage/data/profile_data.js"></script> -->
+		<!-- <script src="components/homepage/validation.js"></script> -->
+		<script src="assets/js/facebook.js"></script>
+		<!-- <script src="assets/js/homepage.js"></script> -->
+		<!--stylesheets-->
+		<link rel="stylesheet" type="text/css" href="assets/lib/css/bootstrap.css">
+		<link rel="stylesheet" type="text/css" href="assets/stylesheet/bootstrap-extensions.css">
+		<!-- <link rel="stylesheet" type="text/css" href="assets/stylesheet/homepage.css"> -->
+
 		<!--[if lte IE 8]><script src="assets/style/ie/html5shiv.js"></script><![endif]-->
 		<link rel="stylesheet" href="assets/style/style.css" />
 		<!--[if lte IE 9]><link rel="stylesheet" href="assets/style/ie/v9.css" /><![endif]-->
